@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Photchara Lee
-- 👀 I’m interested in Computer
-- 🌱 I’m currently learning to Coding
+Name: Photchara Lee
+Birth: 24/4/2006
+Country: Thailand
+
 <!---
 Dximoxd/Dximoxd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
