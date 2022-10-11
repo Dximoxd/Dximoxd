@@ -1,6 +1,6 @@
-Name: Photchara Lee
-Birth: 24/4/2006
-Country: Thailand
+- Name: Photchara Lee
+- Birth: 24/4/2006
+- Country: Thailand
 
 <!---
 Dximoxd/Dximoxd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
